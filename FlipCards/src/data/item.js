@@ -19,4 +19,4 @@ export const info = [
         url:"https://cdn-icons-png.flaticon.com/512/2632/2632943.png",
         stat:""
     },
-]
+].sort(()=> Math.random() - 0.5)
